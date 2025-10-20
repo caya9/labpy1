@@ -12,6 +12,7 @@ Memahami konsep dasar *Version Control System (VCS)* menggunakan *Git* dan *GitH
 ### Dasar Teori
 *Git* digunakan untuk mencatat setiap perubahan file di dalam project.  
 *GitHub* berfungsi menyimpan repository Git secara online untuk kolaborasi dan backup project.
+---
 ### Alat dan Bahan
 - Laptop/Komputer
 - Aplikasi *Git*
@@ -49,3 +50,7 @@ Hasil
 Repository latihan1 berhasil dibuat dan diunggah ke GitHub.
 Semua perintah Git berjalan tanpa error.
 Link Repository GitHub : https://github.com/caya9/latihan1
+---
+### Kesimpulan
+Dari praktikum ini saya belajar menggunakan Git untuk mencatat perubahan kode,
+dan GitHub sebagai tempat menyimpan project online agar mudah diakses dan dibagikan.
