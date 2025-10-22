@@ -1,8 +1,12 @@
 # PENGANTAR PEMROGRAMAN
 Nama    : Chaya Aulia
+
 Nim     : 312510197
+
 Kelas   : TI.25.A2
+
 Matkul  : Pengantar Pemrograman
+
 Tugas   : 4
 
 # Latihan 1
